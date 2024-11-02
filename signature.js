@@ -9,8 +9,7 @@ const paragraph = document.getElementById('myParagraph');
 //past the folowing 
 const lines = [
   'Hello, World!',
-  'add here',
-  
+  'book are life',
 ];
 
 // Add an event listener to the button
