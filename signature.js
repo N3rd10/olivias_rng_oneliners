@@ -10,6 +10,7 @@ const paragraph = document.getElementById('myParagraph');
 const lines = [
   'Hello, World!',
   'book are life',
+  
 ];
 
 // Add an event listener to the button
